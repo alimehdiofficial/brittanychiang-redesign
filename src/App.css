@@ -1,38 +1,50 @@
-.App {
-  text-align: center;
+body {
+  background: #0f0e17;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.app {
+  position: relative;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.app__footer {
+  margin-bottom: 25px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+.app__footer > a {
+  color: #8892b0;
+  display: grid;
+  place-items: center;
+  text-decoration: none;
+  transition: color 0.25s cubic-bezier(0.645, 0.045, 0.355, 1);
+}
+
+.app__footer > a:hover {
+  color: #ff8906;
+}
+
+.app__footer > a > span {
+  letter-spacing: 0.5px;
+  font-size: smaller;
+  margin-bottom: 10px;
+}
+
+.app__githubStats {
   display: flex;
-  flex-direction: column;
   align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  font-size: smaller;
 }
 
-.App-link {
-  color: #61dafb;
+.app__githubStat {
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.5px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.app__githubStats > .app__githubStat:nth-of-type(1) {
+  margin-right: 15px;
+}
+
+.app__githubStat > .MuiSvgIcon-root {
+  font-size: medium;
+  margin-right: 5px;
 }

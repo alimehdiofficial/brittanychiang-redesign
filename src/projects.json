@@ -1,0 +1,26 @@
+[
+  {
+    "image": "https://images.unsplash.com/photo-1608965112849-6eb5e5d106b0?ixid=MXwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw2NHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    "title": "OctoProfile",
+    "info": "A nicer look at your GitHub profile and repository stats with data visualizations of your top languages and stars. Sort through your top repos by number of stars, forks, and size.",
+    "techList": ["Next.js", "Chart.js", "GitHub API"],
+    "github": "https://www.twitter.com",
+    "live": "https://www.twitter.com"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1608965112849-6eb5e5d106b0?ixid=MXwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw2NHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    "title": "Spotify Profile",
+    "info": "A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.",
+    "techList": ["React", "Node.js", "Express", "Spotify Web API"],
+    "github": "https://www.twitter.com",
+    "live": "https://www.twitter.com"
+  },
+  {
+    "image": "https://images.unsplash.com/photo-1608965112849-6eb5e5d106b0?ixid=MXwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw2NHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60",
+    "title": "Halcyon Theme",
+    "info": "A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on Visual Studio Marketplace, Package Control, Atom Package Manager, and npm.",
+    "techList": ["VS Code", "Sublime Text", "Atom", "iTerm2", "Hyper"],
+    "github": "https://www.twitter.com",
+    "live": "https://www.twitter.com"
+  }
+]

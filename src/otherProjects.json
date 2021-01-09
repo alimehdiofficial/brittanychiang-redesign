@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Integrating Algolia Search with WordPress Multisite",
+    "info": "Building a custom multisite compatible WordPress plugin to build global search with Algolia",
+    "techStack": ["Algolia", "WordPress", "PHP"],
+    "live": "https://www.twitter.com"
+  },
+  {
+    "title": "Time to Have More Fun",
+    "info": "A single page web app for helping me choose where to travel, built with Next.js, Firebase, and Tailwind CSS",
+    "techStack": ["Next.js", "Tailwind CSS", "Firebase"],
+    "live": "https://www.twitter.com",
+    "github": "https://www.twitter.com"
+  },
+  {
+    "title": "Building a Headless Mobile App CMS From Scratch",
+    "info": "Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatemen",
+    "techStack": ["Node", "Express", "Firebase", "Vue"],
+    "live": "https://www.twitter.com"
+  },
+  {
+    "title": "Google Keep Clone",
+    "info": "A simple Google Keep clone built with Vue and Firebase.",
+    "techStack": ["Vue", "Firebase"],
+    "live": "https://www.twitter.com",
+    "github": "https://www.twitter.com"
+  },
+  {
+    "title": "Apple Music Embeddable Web Player Widget",
+    "info": "Embeddable web player widget for Apple Music that lets users log in and listen to full song playback in the browser leveraging MusicKit.js. Read more about this project on 9to5Mac.",
+    "techStack": ["MusicKit.js", "JS", "SCSS"],
+    "live": "https://www.twitter.com"
+  },
+  {
+    "title": "Apple Music Facebook Messenger Integration",
+    "info": "Facebook Messenger chat bot extension featuring authentication and full song streaming from within the Messenger app. Read more about it on The Verge.",
+    "techStack": ["Ember", "JS", "SCSS"],
+    "live": "https://www.twitter.com"
+  }
+]
